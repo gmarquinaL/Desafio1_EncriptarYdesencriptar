@@ -16,12 +16,12 @@ Esta aplicación web permite a los usuarios encriptar y desencriptar texto utili
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tu-usuario/encriptador-desencriptador.git
+    git clone https://github.com/gmarquinaL/Desafio1_EncriptarYdesencriptar.git
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd encriptador-desencriptador
+    cd Desafio1_EncriptarYdesencriptar
     ```
 
 ## Estructura del Proyecto
