@@ -4,7 +4,7 @@ Este proyecto es el primer desafío del curso de Principiante en Programación -
 
 ## Descripción
 
-Esta aplicación web permite a los usuarios encriptar y desencriptar texto utilizando una sencilla técnica de inversión de texto. La interfaz de usuario está diseñada para ser intuitiva y responsiva.
+Esta aplicación web permite a los usuarios encriptar y desencriptar texto utilizando código ASCII. La interfaz de usuario está diseñada para ser intuitiva y responsiva.
 
 ## Características
 

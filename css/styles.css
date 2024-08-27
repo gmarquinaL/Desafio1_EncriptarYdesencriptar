@@ -62,21 +62,32 @@ body.dark-mode .container .input-section h1 {
 }
 
 body.dark-mode textarea {
-    background-color: #2d3748;
-    color: #edf2f7;
+    background-color: #a7aab1;
 }
+
+body.dark-mode .output-section{
+    background-color: #2d3748;
+    color: white;
+}
+
+body.dark-mode .output-section #output-message{
+    color: white;
+}
+
+
+
 
 /************* Contenedor principal **********/
 .container {
     background-color: #ffffff;
     border-radius: 12px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 20px rgba(6, 6, 6, 0.2);
     overflow: hidden;
     display: flex;
     flex-direction: column;
     width: 90%;
     max-width: 1000px;
-    margin: 20px;
+    margin: 25px;
 }
 
 
